@@ -1,8 +1,8 @@
 # LeetCode
 LeetCode with python and SQL. 
 
-# Python
-Tree    
-Array
+# [Python](./python)
+* [Array](./python/Array)    
+* [Tree](./python/Tree)
 
 # SQL
