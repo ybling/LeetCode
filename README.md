@@ -2,7 +2,7 @@
 LeetCode with python and SQL. 
 
 # Python
-## Tree
-## Array
+Tree
+Array
 
 # SQL
